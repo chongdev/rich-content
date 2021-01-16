@@ -1,0 +1,13 @@
+body{
+    width: 940px;
+    min-height: 626px;
+    margin: 0 auto;
+    padding: 48px 0;
+}
+.divider {
+  background-color: red;
+}
+
+.divider-container {
+  border: 1px blue solid;
+}
